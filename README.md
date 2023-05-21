@@ -1,1 +1,1 @@
-Aplicación CRUD realizada con fines didácticos a fines de aprender el framework de .NET
+Aplicación CRUD utilizando el patrón de diseño MVC, con el back-end programado en  Visual Basic, .NET para el diseño de la interfaz gráfica y SQL Server 2022 para el manejo de base de datos 
